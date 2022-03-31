@@ -1,16 +1,23 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+Bootcamp Cognizant Cloud Data Engineer - DIO
 
+Descrição O pacote "package-processing-Image" é usado para:
+
+Módulo "Processamento":
+
+Correspondência de histograma; Similaridade estrutural; Redimensionar imagem;
+
+Módulo "Utils":
+
+Ler imagem; Salvar imagem; Plotar imagem; Resultado do gráfico; Plotar histograma;
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package-processing-Image
 
 ```bash
-pip install package_name
+pip install package-processing-Image
 ```
 
 ## Usage
@@ -21,7 +28,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Marlon Martins
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

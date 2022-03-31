@@ -10,10 +10,10 @@ setup(
     name="package-processing-Image",
     version="0.0.1",
     author="Marlon_Martins",
-    description="My short description",
+    description="Estudos de pacotes - Image Processing ",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/snitraMnolraM/package-processing-Image",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
