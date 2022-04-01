@@ -4,7 +4,7 @@
 
 Bootcamp Cognizant Cloud Data Engineer - DIO
 
-Descrição O pacote "package-processing-Image" é usado para:
+Descrição O pacote "package-processing-image" é usado para:
 
 Módulo "Processamento":
 
@@ -19,7 +19,7 @@ Ler imagem; Salvar imagem; Plotar imagem; Resultado do gráfico; Plotar histogra
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package-processing-Image
 
 ```bash
-pip install package-processing-Image
+pip install package-processing-image
 ```
 
 ## Usage
