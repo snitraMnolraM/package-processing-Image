@@ -1,6 +1,7 @@
-# package_name
+# package-processing-Image
 
-Description. 
+## Description.
+
 Bootcamp Cognizant Cloud Data Engineer - DIO
 
 Descrição O pacote "package-processing-Image" é usado para:
@@ -12,6 +13,7 @@ Correspondência de histograma; Similaridade estrutural; Redimensionar imagem;
 Módulo "Utils":
 
 Ler imagem; Salvar imagem; Plotar imagem; Resultado do gráfico; Plotar histograma;
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package-processing-Image
@@ -23,8 +25,8 @@ pip install package-processing-Image
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from processing_image.utils import io, plot
+from processing_image.processing import combination, transformation
 ```
 
 ## Author
